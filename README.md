@@ -15,3 +15,5 @@ After getting password, we can get a login by entering email and given password.
 After authorization as admin, we can have an access for methods. We can update the house which has been created automatically.
 ![Ekran Görüntüsü (298)](https://user-images.githubusercontent.com/99509540/184579299-32168ce3-cba2-4736-b276-850a5fe2e347.png)
 
+Inserting a house 
+![Ekran Görüntüsü (300)](https://user-images.githubusercontent.com/99509540/184579595-5e015111-1498-4bac-bc24-869e569c6e3b.png)
