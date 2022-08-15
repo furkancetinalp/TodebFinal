@@ -65,6 +65,8 @@ List of Users
 List of Houses
 ![Ekran Görüntüsü (336)](https://user-images.githubusercontent.com/99509540/184586073-70b15a13-c7ac-49f9-99df-b5a618c13c4d.png)
 
+Updating House
+![Ekran Görüntüsü (338)](https://user-images.githubusercontent.com/99509540/184586384-10bd36fe-cf9d-4f2a-8677-94c166cc9ee3.png)
 
 
 
