@@ -20,3 +20,8 @@ Inserting a house
 
 Inserting a user and getting auto created password
 ![Ekran Görüntüsü (302)](https://user-images.githubusercontent.com/99509540/184580012-30b48503-f67f-4dbf-a186-bae8d55a35bb.png)
+
+Inserting a bill --- For type; 1=>Feee : 2=>Electricity : 3=>Water : 4=>Gas
+Also, we can only add a bill for either current month  or previous month
+![Ekran Görüntüsü (304)](https://user-images.githubusercontent.com/99509540/184580573-da99f457-9e95-47fc-a299-726783dadc4e.png)
+
