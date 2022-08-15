@@ -29,3 +29,28 @@ We can add bills collectively. For example if we choose to add  fee bills(type 1
 ![Ekran Görüntüsü (307)](https://user-images.githubusercontent.com/99509540/184581152-d256a9f5-a7b5-42fa-bf99-a4b22369348d.png)
 
 ![Ekran Görüntüsü (309)](https://user-images.githubusercontent.com/99509540/184581277-a3e6cdf9-dd0d-4147-9b9d-d09b002e3edc.png)
+
+After logging in from a user account which has been created by admin, we can authorize it and then we can add a credit card to pay a bill.
+![Ekran Görüntüsü (313)](https://user-images.githubusercontent.com/99509540/184582046-002ddf51-9011-476d-87d2-742ade3f3820.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
