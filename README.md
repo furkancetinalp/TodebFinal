@@ -69,6 +69,8 @@ Updating House
 ![Ekran Görüntüsü (338)](https://user-images.githubusercontent.com/99509540/184586384-10bd36fe-cf9d-4f2a-8677-94c166cc9ee3.png)
 
 
+Deleting User
+![Ekran Görüntüsü (340)](https://user-images.githubusercontent.com/99509540/184586556-668a3b71-f025-457b-8ff2-9fd9f41182ed.png)
 
 
 
