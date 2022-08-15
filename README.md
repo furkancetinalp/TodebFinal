@@ -18,5 +18,5 @@ After authorization as admin, we can have an access for methods. We can update t
 Inserting a house 
 ![Ekran Görüntüsü (300)](https://user-images.githubusercontent.com/99509540/184579595-5e015111-1498-4bac-bc24-869e569c6e3b.png)
 
-Inserting a user
+Inserting a user and getting auto created password
 ![Ekran Görüntüsü (302)](https://user-images.githubusercontent.com/99509540/184580012-30b48503-f67f-4dbf-a186-bae8d55a35bb.png)
