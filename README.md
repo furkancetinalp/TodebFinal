@@ -60,8 +60,7 @@ We can see monthly total debt by bill type
 ![image](https://user-images.githubusercontent.com/99509540/184584837-f463defc-0203-4c7b-a4e2-0ffdcf112bd0.png)
 
 List of users
-![image](https://user-images.githubusercontent.com/99509540/184585228-0d71155c-0017-4619-8b9b-94dbdb5276f3.png)
-
+![Ekran Görüntüsü (332)](https://user-images.githubusercontent.com/99509540/184585275-6001c7ce-d4d3-4dad-a3f4-9af766ca53ee.png)
 
 
 
