@@ -8,3 +8,6 @@
 Identityno => 4 digits, Phone => 11 digits and must begin with 05 
 After entering inputs, the program will create a 4 digits PASSWORD automatically and show it as an output.
 ![Ekran Görüntüsü (294)](https://user-images.githubusercontent.com/99509540/184578155-9a24dc84-0d1c-4042-bf03-0cf76ab68148.png)
+
+After getting password, we can login by email and given password
+![Ekran Görüntüsü (296)](https://user-images.githubusercontent.com/99509540/184578878-091b1eed-ba93-41fc-9a61-5b636afd960a.png)
