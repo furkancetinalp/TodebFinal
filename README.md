@@ -46,7 +46,8 @@ Remaining balance of credit card 11111
 ![Ekran Görüntüsü (321)](https://user-images.githubusercontent.com/99509540/184582888-040c036c-5646-4ff3-80dc-f96538afa1a6.png)
 
 
-
+Sending message to admin. HouseNumber and identity number are user's house number and identity. User needs to type these parameters correctly in order to send a message to admin. After sending message, user is not allowed to read messages because only admin can read
+![Ekran Görüntüsü (323)](https://user-images.githubusercontent.com/99509540/184583535-a26f767c-2651-44b4-a4f7-c60f8d2eb3b3.png)
 
 
 
