@@ -12,6 +12,6 @@ After entering inputs, the program will create a 4 digits PASSWORD automatically
 After getting password, we can get a login by entering email and given password. Then we can get a token.
 ![Ekran Görüntüsü (296)](https://user-images.githubusercontent.com/99509540/184578878-091b1eed-ba93-41fc-9a61-5b636afd960a.png)
 
-After authorization as admin, we can have an access for methods. 
+After authorization as admin, we can have an access for methods. We can update the house which has been created automatically.
 ![Ekran Görüntüsü (298)](https://user-images.githubusercontent.com/99509540/184579299-32168ce3-cba2-4736-b276-850a5fe2e347.png)
 
