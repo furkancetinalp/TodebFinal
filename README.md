@@ -50,6 +50,8 @@ Sending message to admin. HouseNumber and identity number are user's house numbe
 ![Ekran Görüntüsü (323)](https://user-images.githubusercontent.com/99509540/184583535-a26f767c-2651-44b4-a4f7-c60f8d2eb3b3.png)
 
 
+After logging in as an admin again and activating the token, we are allowed to read messages. Messages are  marked as UNREAD. Admin can change status of it when when needed.
+![Ekran Görüntüsü (325)](https://user-images.githubusercontent.com/99509540/184584130-799f31b9-6696-463c-8b85-ed857372ade6.png)
 
 
 
