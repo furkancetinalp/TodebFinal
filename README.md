@@ -59,10 +59,11 @@ After calling the method of MarkMessagesAsRead, all messages are set as READ.
 We can see monthly total debt by bill type
 ![Ekran Görüntüsü (329)](https://user-images.githubusercontent.com/99509540/184585353-eef36822-fda6-4b23-b81f-f45691854f07.png)
 
-List of users
+List of Users
 ![Ekran Görüntüsü (332)](https://user-images.githubusercontent.com/99509540/184585275-6001c7ce-d4d3-4dad-a3f4-9af766ca53ee.png)
 
-
+List of Houses
+![Ekran Görüntüsü (336)](https://user-images.githubusercontent.com/99509540/184586073-70b15a13-c7ac-49f9-99df-b5a618c13c4d.png)
 
 
 
