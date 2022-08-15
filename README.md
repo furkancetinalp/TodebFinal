@@ -39,6 +39,11 @@ After logging in from a user account which has been created by admin, we can aut
 Paying fee for month 7 by credit card 11111
 ![Ekran Görüntüsü (317)](https://user-images.githubusercontent.com/99509540/184582533-ecb4ee98-4866-40af-b489-ade228c59388.png)
 
+Paid Bill From MongoDb
+![Ekran Görüntüsü (320)](https://user-images.githubusercontent.com/99509540/184582865-c3e0ed19-5c7d-43d5-ba50-7ac6b622b53d.png)
+
+Remaining balance of credit card 11111
+![Ekran Görüntüsü (321)](https://user-images.githubusercontent.com/99509540/184582888-040c036c-5646-4ff3-80dc-f96538afa1a6.png)
 
 
 
