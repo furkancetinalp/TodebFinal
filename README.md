@@ -32,9 +32,12 @@ We can add bills collectively. For example if we choose to add  fee bills(type 1
 
 After logging in from a user account which has been created by admin, we can authorize it and then we can add a credit card to pay a bill.
 ![Ekran Görüntüsü (313)](https://user-images.githubusercontent.com/99509540/184582046-002ddf51-9011-476d-87d2-742ade3f3820.png)
+
 5 digit card number is required. At initial, the balance is set 1000TL
 ![Ekran Görüntüsü (315)](https://user-images.githubusercontent.com/99509540/184582225-503e798c-9361-4e65-96b2-b3474e229203.png)
 
+Paying fee for month 7 by credit card 11111
+![Ekran Görüntüsü (317)](https://user-images.githubusercontent.com/99509540/184582533-ecb4ee98-4866-40af-b489-ade228c59388.png)
 
 
 
