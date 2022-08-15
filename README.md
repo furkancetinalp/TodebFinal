@@ -53,6 +53,8 @@ Sending message to admin. HouseNumber and identity number are user's house numbe
 After logging in as an admin again and activating the token, we are allowed to read messages. Messages are  marked as UNREAD. Admin can change status of it when when needed.
 ![Ekran Görüntüsü (325)](https://user-images.githubusercontent.com/99509540/184584130-799f31b9-6696-463c-8b85-ed857372ade6.png)
 
+After calling the method of MarkMessagesAsRead, all messages are set as READ.
+![Ekran Görüntüsü (327)](https://user-images.githubusercontent.com/99509540/184584363-9c38e7d1-4547-44b0-b994-868342322317.png)
 
 
 
