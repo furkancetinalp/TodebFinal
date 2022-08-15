@@ -25,3 +25,7 @@ Inserting a bill --- For type; 1=>Feee : 2=>Electricity : 3=>Water : 4=>Gas ---
 Also, we can only add a bill for either current month  or previous month
 ![Ekran Görüntüsü (304)](https://user-images.githubusercontent.com/99509540/184580573-da99f457-9e95-47fc-a299-726783dadc4e.png)
 
+We can add bills collectively. For example if we choose to add  fee bills(type 1) collectively for month 7, there are 3 houses and one of them  already has bill. So, the amount will be shared to remaining 2 houses automatically.
+![Ekran Görüntüsü (307)](https://user-images.githubusercontent.com/99509540/184581152-d256a9f5-a7b5-42fa-bf99-a4b22369348d.png)
+
+![Ekran Görüntüsü (309)](https://user-images.githubusercontent.com/99509540/184581277-a3e6cdf9-dd0d-4147-9b9d-d09b002e3edc.png)
